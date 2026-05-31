@@ -133,7 +133,7 @@ Focus    : Servers · Scripting · Automation · Security
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Surendra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-surendra-munagala-4b72102aa)
 [![GitHub](https://img.shields.io/badge/GitHub-saisurendra13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisurendra13)
-[![Email](https://img.shields.io/badge/Email-Reach_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisurendra13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisurendra393@gmail.com)
 
 </div>
 
