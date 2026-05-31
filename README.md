@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- Profile views — works instantly, no setup needed -->
 <img src="https://komarev.com/ghpvc/?username=saisurendra13&label=Profile+Views&color=0e75b6&style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/saisurendra13?label=Followers&style=flat-square&color=0e75b6" />
 
 <br/><br/>
 
-<!-- Capsule render wave header — zero setup, just works -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Munagala%20Sai%20Surendra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Associate%20IT%20Support%20%7C%20Linux%20%7C%20DevOps%20Learner&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
 <br/>
 
-<!-- Typing SVG — hosted service, no setup needed -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Sai+Surendra+%F0%9F%91%8B;Associate+IT+Support+Engineer+%F0%9F%96%A5%EF%B8%8F;Linux+%7C+Ubuntu+%7C+Servers+%7C+Scripting;Currently+Learning+DevOps+Tools+%F0%9F%9A%80;Build.+Break.+Fix.+Automate.+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
@@ -90,14 +87,20 @@ Focus       : Servers · Scripting · Troubleshooting · Automation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saisurendra13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisurendra13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<!-- Streak stats — demolab instance is actively maintained and reliable -->
+<img src="https://streak-stats.demolab.com/?user=saisurendra13&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=saisurendra13&theme=tokyonight&hide_border=true" width="60%" />
+<!-- GitHub-profile-summary-cards — different backend, much more reliable than anuraghazra -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saisurendra13&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saisurendra13&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saisurendra13&theme=tokyonight" height="160"/>
+
 </div>
 
 ---
@@ -105,7 +108,7 @@ Focus       : Servers · Scripting · Troubleshooting · Automation
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saisurendra13&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saisurendra13&theme=tokyo-night&hide_border=true&area=true&custom_title=Sai%20Surendra's%20Contribution%20Graph" width="100%"/>
 </div>
 
 ---
